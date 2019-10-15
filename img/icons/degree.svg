@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 155 155" height="155px" id="Layer_1" version="1.1" viewBox="0 0 155 155" width="155px" xml:space="preserve"><g><circle cx="77.5" cy="77.5" fill="#FFD55C" r="77.5"/><g><g><g><rect fill="#FFFFFF" height="22.292" width="96.004" x="29.502" y="100.683"/><rect fill="#E6E5E5" height="8.288" width="96.004" x="29.502" y="114.687"/></g><g><polygon fill="#F15424" points="81.616,100.683 73.388,100.683 73.388,139.785 77.499,135.669 81.616,139.785     "/><polygon fill="#FFD55C" points="86.298,108.973 83.664,107.355 82.938,104.342 79.847,104.59 77.496,102.576 75.152,104.59       72.057,104.342 71.35,107.355 68.699,108.973 69.891,111.832 68.699,114.687 71.35,116.299 72.057,119.315 75.152,119.058       77.496,121.086 79.847,119.058 82.938,119.315 83.664,116.299 86.298,114.687 85.115,111.832     "/><path d="M83,111.832c0,3.034-2.458,5.496-5.504,5.496c-3.029,0-5.496-2.462-5.496-5.496      c0-3.044,2.467-5.5,5.496-5.5C80.542,106.332,83,108.788,83,111.832z" fill="#FFB733"/></g></g><g><path d="M77.5,61.492H48.147v12.816c0,7.367,8.616,13.355,13.868,15.512c5.256,2.168,10.514,3.473,15.484,4.023     c4.961-0.551,10.224-1.855,15.482-4.023c5.255-2.156,13.862-8.145,13.862-15.512V61.492H77.5z" fill="#3E4959"/><path d="M92.982,83.466c-5.259,2.167-10.521,3.474-15.482,4.015c-4.971-0.541-10.229-1.848-15.484-4.015     c-5.252-2.157-13.868-8.146-13.868-15.514v6.356c0,7.367,8.616,13.355,13.868,15.512c5.256,2.168,10.514,3.473,15.484,4.023     c4.961-0.551,10.224-1.855,15.482-4.023c5.255-2.156,13.862-8.145,13.862-15.512v-6.356     C106.845,75.32,98.237,81.309,92.982,83.466z" fill="#242D3C"/><polygon fill="#242D3C" points="77.5,27.215 17.5,51.209 77.5,75.211 137.5,51.209    "/><g><polygon fill="#F15424" points="39.883,60.164 43.113,61.457 77.948,47.521 74.709,46.23     "/><polygon fill="#FF6D3B" points="43.113,88.256 43.113,61.457 39.883,60.164 39.883,88.258 41.502,86.646     "/></g></g></g></g>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="516423,degree,diploma,education,graduation,hat,knowledge,student" dc:description="516423,degree,diploma,education,graduation,hat,knowledge,student" dc:publisher="Iconscout" dc:date="2017-03-04" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Maxim Basinski</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

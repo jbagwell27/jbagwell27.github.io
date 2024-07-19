@@ -2,6 +2,21 @@
 <html lang="en">
 
 <head>
+
+  <script>
+    function openAndDownload() {
+      // Open the HTML file in a new tab
+      window.open('resources/resume.html', '_blank');
+
+      // Start the PDF download
+      const link = document.createElement('a');
+      link.href = 'resources/JOSHUA-D-BAGWELL.pdf'; // Path to your PDF file
+      link.download = 'JOSHUA-D-BAGWELL.pdf'; // Name of the PDF file to download
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
   <link rel="shortcut icon" href="img/terminal.ico" type="image/x-icon">
 
   <meta charset="utf-8">
@@ -123,7 +138,7 @@
 
     <!-- DOWNLOAD RESUME BUTTON -->
     <div class="text-center mt-4">
-      <a target="_blank" class="btn btn-xl btn-outline-secondary" href="resources/JOSHUA-D-BAGWELL.pdf">
+      <a target="_blank" class="btn btn-xl btn-outline-secondary" href="#" onclick="openAndDownload(); return false;">
         <i class="fas fa-download mr-2"></i>
         Resume Download
       </a>
